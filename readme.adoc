@@ -1,0 +1,5 @@
+= Hi, this is a Turtle Crossing game
+
+This is for self testing only.
+
+Press `Upper Arrow` to move the turtle.
